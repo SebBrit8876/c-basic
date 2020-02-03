@@ -1,0 +1,11 @@
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.exe
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.deps.json
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.runtimeconfig.json
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.runtimeconfig.dev.json
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.dll
+C:\Users\britec\source\repos\zodiaco\zodiaco\bin\Debug\netcoreapp3.1\zodiaco.pdb
+C:\Users\britec\source\repos\zodiaco\zodiaco\obj\Debug\netcoreapp3.1\zodiaco.csprojAssemblyReference.cache
+C:\Users\britec\source\repos\zodiaco\zodiaco\obj\Debug\netcoreapp3.1\zodiaco.AssemblyInfoInputs.cache
+C:\Users\britec\source\repos\zodiaco\zodiaco\obj\Debug\netcoreapp3.1\zodiaco.AssemblyInfo.cs
+C:\Users\britec\source\repos\zodiaco\zodiaco\obj\Debug\netcoreapp3.1\zodiaco.dll
+C:\Users\britec\source\repos\zodiaco\zodiaco\obj\Debug\netcoreapp3.1\zodiaco.pdb

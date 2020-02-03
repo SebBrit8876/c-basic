@@ -1,0 +1,11 @@
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.exe
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.deps.json
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.runtimeconfig.json
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.runtimeconfig.dev.json
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.dll
+C:\Users\britec\source\repos\circunferencia\circunferencia\bin\Debug\netcoreapp3.1\circunferencia.pdb
+C:\Users\britec\source\repos\circunferencia\circunferencia\obj\Debug\netcoreapp3.1\circunferencia.csprojAssemblyReference.cache
+C:\Users\britec\source\repos\circunferencia\circunferencia\obj\Debug\netcoreapp3.1\circunferencia.AssemblyInfoInputs.cache
+C:\Users\britec\source\repos\circunferencia\circunferencia\obj\Debug\netcoreapp3.1\circunferencia.AssemblyInfo.cs
+C:\Users\britec\source\repos\circunferencia\circunferencia\obj\Debug\netcoreapp3.1\circunferencia.dll
+C:\Users\britec\source\repos\circunferencia\circunferencia\obj\Debug\netcoreapp3.1\circunferencia.pdb

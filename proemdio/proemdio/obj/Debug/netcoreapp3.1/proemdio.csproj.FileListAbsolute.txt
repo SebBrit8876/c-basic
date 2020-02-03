@@ -1,0 +1,11 @@
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.exe
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.deps.json
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.runtimeconfig.json
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.runtimeconfig.dev.json
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.dll
+C:\Users\britec\source\repos\proemdio\proemdio\bin\Debug\netcoreapp3.1\proemdio.pdb
+C:\Users\britec\source\repos\proemdio\proemdio\obj\Debug\netcoreapp3.1\proemdio.csprojAssemblyReference.cache
+C:\Users\britec\source\repos\proemdio\proemdio\obj\Debug\netcoreapp3.1\proemdio.AssemblyInfoInputs.cache
+C:\Users\britec\source\repos\proemdio\proemdio\obj\Debug\netcoreapp3.1\proemdio.AssemblyInfo.cs
+C:\Users\britec\source\repos\proemdio\proemdio\obj\Debug\netcoreapp3.1\proemdio.dll
+C:\Users\britec\source\repos\proemdio\proemdio\obj\Debug\netcoreapp3.1\proemdio.pdb

@@ -1,0 +1,10 @@
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.exe
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.deps.json
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.json
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.runtimeconfig.dev.json
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.dll
+C:\Users\britec\source\repos\IMC\IMC\bin\Debug\netcoreapp3.1\IMC.pdb
+C:\Users\britec\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfoInputs.cache
+C:\Users\britec\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.AssemblyInfo.cs
+C:\Users\britec\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.dll
+C:\Users\britec\source\repos\IMC\IMC\obj\Debug\netcoreapp3.1\IMC.pdb

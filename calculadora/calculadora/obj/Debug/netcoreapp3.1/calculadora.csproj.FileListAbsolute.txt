@@ -1,0 +1,10 @@
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\britec\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\britec\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\Users\britec\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\Users\britec\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\britec\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
